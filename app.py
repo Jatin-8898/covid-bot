@@ -34,6 +34,18 @@ def bot():
         msg.body(text)
         responded = True
 
+    if 'india' | 'ind' in incoming_msg:
+        # return total cases
+        r = requests.get('https://coronavirus-19-api.herokuapp.com/countries/india')
+        if r.status_code == 200:
+            data = r.json()
+            text = f'COVID Cases in India \n Confirmed Cases : {data["cases"]} \n Today Cases : {data["todayCases"]} \nDeaths : {data["deaths"]} \nRecovered : {data["recovered"]} \nActive Cases : {data["active"]}'
+            print(text)
+        else:
+            text = 'I could not retrieve the results at this time, sorry.'
+        msg.body(text)
+        responded = True
+
     if responded == False:
         msg.body('I only know about corona, sorry!')
 
