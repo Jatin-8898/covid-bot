@@ -7,7 +7,7 @@ Whatsapp bot which provides the number of cases/deaths reported worldwide as wel
 
 It also provides some prevention measures inspired from the Government of India Corona Bot.
 
-You can check out this [Medium article]()
+### You can check out this [Medium article](https://medium.com/@Jatin_8898/how-to-create-covid-whatsapp-bot-2d424c96a4d6)
 
 ## 🚀 Features
 - Stats of Corona Virus cases WorldWide
@@ -26,7 +26,7 @@ You can check out this [Medium article]()
 
 ## 📝 Usage 
 
-To use this bot simply send a WhatsApp message to **+14155238886** with code **join shout-daughter**.
+To use this bot simply send a WhatsApp message to **(+1) 415523 8886** with code **join shout-daughter**.
 It will show a message saying connected to sandbox.
 Now start talking by saying Hi and it will display the followup chats.
 
