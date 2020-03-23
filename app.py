@@ -9,7 +9,7 @@ app = Flask(__name__)
 def hello():
     return "Hello World!"
 
-@app.route('/bot', methods=['POST','GET'])
+@app.route('/bot', methods=['POST'])
 def bot():
     incoming_msg = request.values.get('Body', '')
     #print(incoming_msg)
