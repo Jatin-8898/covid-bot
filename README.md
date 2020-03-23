@@ -9,7 +9,7 @@ It also provides some prevention measures inspired from the Government of India 
 
 You can check out this [Medium article]()
 
-## Features
+## 🚀 Features
 - Stats of Corona Virus cases WorldWide
 - Stats of Corona Virus cases happening in India, USA, China, Italy
 - How does it spread and how to prevent it?
@@ -24,9 +24,26 @@ You can check out this [Medium article]()
 * A smartphone with an active phone number and WhatsApp installed.
 * A [Twilio](https://www.twilio.com/) account
 
-## 📝 Usage 🚀📘💻
+## 📝 Usage 
+
+To use this bot simply send a WhatsApp message to **+14155238886** with code **join shout-daughter**.
+It will show a message saying connected to sandbox.
+Now start talking by saying Hi and it will display the followup chats.
 
 
+### Clone this Repo
+```
+https://github.com/Jatin-8898/covid-bot.git
+```
+### 📘 Installation
+```
+$ pip install virtualenv
+$ virualenv covid-bot
+$ covid-bot\Scripts\activate
 
-## References
+$ pip install flask
+$ pip install twilio
+$ pip install request
+```
+### References
 [Medium tutorial](https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio)
