@@ -1,4 +1,6 @@
 # 🛡 Covid Bot
+[![GitHub license](https://img.shields.io/github/license/Jatin-8898/covid-bot?logo=MIT)](https://github.com/Jatin-8898/covid-bot/blob/master/LICENSE.md) [![GitHub stars](https://img.shields.io/github/stars/Jatin-8898/covid-bot)](https://github.com/Jatin-8898/covid-bot/stargazers)
+
 Whatsapp bot which provides the number of cases/deaths reported worldwide as well in some countries like
 * India 
 * USA 
