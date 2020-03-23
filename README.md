@@ -32,8 +32,12 @@ It also provides some prevention measures inspired from the Government of India 
 
 To use this bot simply send a WhatsApp message to **(+1) 415523 8886** with code **join shout-daughter**.
 It will show a message saying connected to sandbox.
-Now start talking by saying Hi and it will display the followup chats.
+Now start talking by saying  **Hi | India | USA | Italy** and it will display the followup chats.
 
+## 🚀 Demo Screens
+![WhatsApp Image 2020-03-23 at 9 25 30 PM](https://user-images.githubusercontent.com/34777376/77336198-31955100-6d4d-11ea-9c03-9c4687b1fc77.jpeg)
+
+<img src="https://user-images.githubusercontent.com/34777376/77335111-bbdcb580-6d4b-11ea-8ea9-3ea9d6dca460.png" height="500" width="350"> <img src="https://user-images.githubusercontent.com/34777376/77335098-b8e1c500-6d4b-11ea-996d-3cbae875f1e9.png" height="500" width="350"> <img src="https://user-images.githubusercontent.com/34777376/77335078-aff0f380-6d4b-11ea-9527-49cdd2be409f.png" height="500" width="350"> <img src="https://user-images.githubusercontent.com/34777376/77335040-a1a2d780-6d4b-11ea-877d-06602c78b939.png" height="500" width="350"><img src="https://user-images.githubusercontent.com/34777376/77335031-9e0f5080-6d4b-11ea-8320-29ec3f7e70fe.png" height="500" width="350">
 
 ### Clone this Repo
 ```
