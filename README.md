@@ -30,9 +30,10 @@ It also provides some prevention measures inspired from the Government of India 
 
 ## 📝 Usage 
 
-To use this bot click on this [link](https://api.whatsapp.com/send?phone=14155238886&text=join shout-daughter&source=&data=)
+To use this bot click on this [LINK](https://api.whatsapp.com/send?phone=14155238886&text=join%20shout-daughter&source=&data=)
 
-Manual Way  
+**Manual Way**
+
 Simply send a WhatsApp message to **(+1) 415523 8886** with code **join shout-daughter**.
 It will show a message saying connected to sandbox.
 Now start talking by saying  **Hi | India | USA | Italy** and it will display the followup chats.
